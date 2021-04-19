@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-<!--
-**Pavel-Sushko/pavel-sushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pavel-sushko&count_private=true&theme=onedark&show_icons=true&line_height=25&hide=stars" />
+</div>
 
-Here are some ideas to get you started:
+- 📚 Studying Computer Science at John Abbott College
+- 💻 Working on cyber security projects
+- ℹ️ Working on a business project with C#, and SQL
+- 😃 Open to working on C# or Python projects
+- 🎵 80s Music is the best music
+- 🥊 MMA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&layout=compact&langs_count=4&theme=onedark" />
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=1&column=5&margin-h=24" />
+</div>
