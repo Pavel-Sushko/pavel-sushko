@@ -15,5 +15,5 @@
 
 <div align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&langs_count=4&theme=onedark" />
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=24&margin-w=25" />
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=24&margin-w=20" />
 </div>
