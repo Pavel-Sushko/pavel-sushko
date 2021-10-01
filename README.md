@@ -8,9 +8,9 @@
 
 - 🖥️ Information Technology intern at Town of Kirkland
 - 📚 Studying Computer Science at John Abbott College
-- 💻 Working on cyber security projects
+- 💻 Working on cyber security projects, and Blockchain projects
 - ℹ️ Working on an NFT project
-- 😃 Open to working on C#, Python, Web, Blockchain projects
+- 😃 Open to working on Blockchain, Python, C#, Web projects
 - 🎵 80s Music is the best music
 - 🥊 MMA
 
