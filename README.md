@@ -16,7 +16,9 @@
 - 🎵 80s Music is the best music
 - 🥊 MMA
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&layout=compact" />
+</a>
 
 
 <div align="center">
