@@ -10,17 +10,15 @@
 - 🖥️ Co-Founder and CEO of Dextrae Software Inc.
 - 🖥️ Network Security Analyst at City of Kirkland
 - 📚 Studying Computer Science at John Abbott College
-- 💻 Working on cyber security projects, and Blockchain projects
-- ℹ️ Working on an NFT project
+- ℹ️ Working on Blockchain projects
 - 😃 Open to working on Blockchain, Python, C#, Web projects
 - 🎵 80s Music is the best music
-- 🥊 MMA
 
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&layout=compact" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&count_private=true&theme=onedark&layout=compact" />
 </a>
 
 
-<div align="center">
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=24&margin-w=24" />
+<div align="left">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=24&margin-w=24" />
 </div>
