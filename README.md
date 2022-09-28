@@ -6,7 +6,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pavel-sushko&count_private=true&theme=onedark&show_icons=true&line_height=25&hide=stars" />
 </div>
 
-- 🖥️ Information Technology intern at Town of Kirkland
+- 🖥️ Co-Founder and CEO of SB Software Inc.
+- 🖥️ Co-Founder and CEO of Dextrae Software Inc.
+- 🖥️ Network Security Analyst at City of Kirkland
 - 📚 Studying Computer Science at John Abbott College
 - 💻 Working on cyber security projects, and Blockchain projects
 - ℹ️ Working on an NFT project
