@@ -20,5 +20,5 @@
 
 
 <div align="left">
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=20&margin-w=20" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=20&margin-w=20" />
 </div>
