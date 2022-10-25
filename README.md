@@ -15,10 +15,10 @@
 - 🎵 80s Music is the best music
 
 <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&count_private=true&theme=onedark" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/username=pavel-sushko&count_private=true&theme=onedark" />
 </a>
 
 
 <div align="left">
-    <img align="left" src="https://github-profile-trophy.vercel.app/username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=20&margin-w=20" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=20&margin-w=20" />
 </div>
