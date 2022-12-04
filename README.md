@@ -9,9 +9,9 @@
 - 🖥️ Co-Founder and CEO of SB Software Inc.
 - 🖥️ Co-Founder and CEO of Dextrae Software Inc.
 - 🖥️ Network Security Analyst at City of Kirkland
-- 📚 Studying Computer Science at John Abbott College
-- ℹ️ Working on Blockchain projects
-- 😃 Open to working on Blockchain, Python, C#, Web projects
+- 📚 Studying for the eCPPTv2
+- ℹ️ Looking for Web Developers and Designers
+- 😃 Email me to make your Blockchain project a reality
 - 🎵 80s Music is the best music
 
 <a>
