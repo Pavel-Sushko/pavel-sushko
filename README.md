@@ -11,7 +11,7 @@
 - 🖥️ Network Security Analyst at City of Kirkland
 - 📚 Studying for the eCPPTv2
 - ℹ️ Looking for Web Developers and Designers
-- 😃 Email me to make your Blockchain project a reality
+- 😃 Email me to make your Software project a reality
 - 🎵 80s Music is the best music
 
 <a>
