@@ -8,7 +8,7 @@
 
 - 🖥️ Co-Founder and CEO of SB Software Inc.
 - 🖥️ Cyber Security Analyst at City of Kirkland
-- 📋 eJPT; eCPPTv2
+- 📋 eJPT, and eCPPTv2
 - 📚 Studying for the PJMT
 - ℹ️ Looking for Web Developers and Designers
 - 😃 Email me to make your Software project a reality
