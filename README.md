@@ -13,7 +13,7 @@
 - 📚 Studying for the PJMT
 - ℹ️ Looking for Web Developers and Designers
 
-<div>
+<div style="margin-top: 200px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&count_private=true&theme=onedark" /> 
     <img align="right" src="https://github-profile-trophy.vercel.app/?username=pavel-sushko&theme=onedark&row=2&column=4&margin-h=20&margin-w=20" />
 </div>
