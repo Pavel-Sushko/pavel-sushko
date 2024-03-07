@@ -7,12 +7,11 @@
 </div>
 
 - 🖥️ Co-Founder and CEO of SB Software Inc.
-- 🖥️ Cyber Security Analyst at City of Kirkland
+- 🖥️ Cybersecurity Analyst at City of Kirkland
 - 📋 eJPT, and eCPPTv2
+- 🔐 CVE-2023-3243
 - 📚 Studying for the PJMT
 - ℹ️ Looking for Web Developers and Designers
-- 😃 Email me to make your Software project a reality
-- 🎵 80s Music is the best music
 
 <a>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&count_private=true&theme=onedark" />
