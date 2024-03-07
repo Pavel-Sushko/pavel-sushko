@@ -9,6 +9,7 @@
 - 🖥️ Co-Founder and CEO of SB Software Inc.
 - 🖥️ Cybersecurity Analyst at City of Kirkland
 - 📋 eJPT, and eCPPTv2
+- 🤝 **Check Point** and **Cisco** partner
 - 🔐 CVE-2023-3243
 - 📚 Studying for the PJMT
 - ℹ️ Looking for Web Developers and Designers
