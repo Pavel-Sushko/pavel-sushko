@@ -6,7 +6,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pavel-sushko&count_private=true&theme=onedark&show_icons=true&line_height=25&hide=stars" />
 </div>
 
-- 🖥️ Co-Founder and CEO of SB Software Inc.
+- 🖥️ Director of Information Technology at SB Software Inc.
 - 🖥️ Cybersecurity Analyst at City of Kirkland
 - 📋 eJPT, and eCPPTv2
 - 🤝 **Check Point** and **Cisco** partner
