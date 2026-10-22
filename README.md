@@ -7,12 +7,10 @@
 </div>
 
 - 🖥️ Director of Information Technology at SB Software Inc.
-- 🖥️ Cybersecurity Analyst at City of Kirkland
-- 📋 eJPT, and eCPPTv2
+- 📋 eJPT, eCPPTv2, and Microsoft AI Transformation Leader
 - 🤝 **Check Point** and **Cisco** partner
 - 🔐 CVE-2023-3243
-- 📚 Studying for the PJMT
-- ℹ️ Looking for Web Developers and Designers
+- 📚 Studying for the PPNT and CISSP
 
 <div style="margin-top: 200px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-sushko&count_private=true&theme=onedark" /> 
